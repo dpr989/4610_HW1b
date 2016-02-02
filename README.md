@@ -1,5 +1,5 @@
 # 4610_HW1b<br>
-Assignments are due at the beginning of the due date. You are expected to run your code in class on the due date. You should submit a<br> printed hard copy of the report along with a CD that includes all the source code and executable. In the report, you should explain your<br> methods, some illustration figures of the results, as well as any remaining issues and potential solutions.<br>
+Assignments are due at the beginning of the due date. You are expected to run your code in class on the due date. You should submit a printed hard copy of the report along with a CD that includes all the source code and executable. In the report, you should explain your<br> methods, some illustration figures of the results, as well as any remaining issues and potential solutions.<br>
 <br>
 Assignment  1b. Due date: Tuesday 11am February 02, 2016<br>
 
