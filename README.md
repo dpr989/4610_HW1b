@@ -3,7 +3,7 @@ Assignments are due at the beginning of the due date. You are expected to run yo
 <br>
 Assignment  1b. Due date: Tuesday 11am February 02, 2016<br>
 
-Run the three sample programs described in Chapter 2 of the textbook (Appendix A): A.1: Sierpinski Gasket Program; A.2: Recursive<br> Sierpinski Gasket; and A.3: Recursive 3D Sierpinski Gasket with the following modification:<br>
+Run the three sample programs described in Chapter 2 of the textbook (Appendix A): A.1: Sierpinski Gasket Program; A.2: Recursive Sierpinski Gasket; and A.3: Recursive 3D Sierpinski Gasket with the following modification:<br>
 <br>
 a) In A.1, display(), comment out the following line:<br>
 <br>
